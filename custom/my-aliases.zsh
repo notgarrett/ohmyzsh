@@ -1,0 +1,6 @@
+alias ls="exa --all --icons --grid"
+alias zshconfig="nvim ~/.zshrc"
+alias cat="bat"
+alias zshalias="nvim ~/.oh-my-zsh/custom/my-aliases.zsh"
+alias vi="nvim"
+alias vim="nvim"
